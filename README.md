@@ -10,3 +10,4 @@ The Ames Housing dataset was compiled by Dean De Cock for use in data science ed
 
 The goal is to predict the sales price for each house. For each Id in the test set, the value of SalePrice variable must be predicted. The predicted values for test is evaluated using Root-Mean-Squared-Error (RMSE) between the logarithm of the predicted value and the logarithm of the observed sales price. 
 
+https://www.kaggle.com/smartsolutaris/house-price-prediction
